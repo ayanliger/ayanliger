@@ -1,6 +1,6 @@
 ### Hi, I'm Ayan!
 
-I'm a physician turned engineer. I'm interested in designing and implementing applications that effectively leverage intelligent systems to bring actual value and optimization.
+Physician turned engineer focused on applied AI: RAG, agents, and the infrastructure to run them.
 
 **Currently working on**
 - **Mãe Salvador**: digital pregnancy passbook (Next.js 16 dashboard + Expo mobile) for a municipal maternal health program in Salvador-BA. FHIR-aligned, SUS integrations. · [Dashboard MVP](https://mae-salvador-mvp.vercel.app/) · [Mobile MVP](https://mae-salvador-app.vercel.app/) · [Repo](https://github.com/ayanliger/mae-salvador-mvp)
@@ -14,4 +14,4 @@ I'm a physician turned engineer. I'm interested in designing and implementing ap
 
 **Background**
 
-Primary care physician and systems development undergraduate at FGV. Before medicine, ~5 years evaluating ground truth data for ranking and recommendation systems for Google and Meta via Appen/Leapforce.
+Primary care physician and completing a second degree in software engineering at FGV. Before medicine, ~5 years evaluating ground truth data for ranking and recommendation systems for Google and Meta via Appen/Leapforce.
