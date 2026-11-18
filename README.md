@@ -2,8 +2,8 @@
 
 Physician turned engineer focused on applied AI: RAG, agents, and the infrastructure to run them.
 
-**Currently working on**
-- **Mãe Salvador**: digital pregnancy passbook (Next.js 16 dashboard + Expo mobile) for a municipal maternal health program in Salvador-BA. FHIR-aligned, SUS integrations. · [Dashboard MVP](https://mae-salvador-mvp.vercel.app/) · [Mobile MVP](https://mae-salvador-app.vercel.app/) · [Repo](https://github.com/ayanliger/mae-salvador-mvp)
+**In production**
+- **Mãe Salvador 360º**: pregnancy and postpartum app and staff portal for the municipal maternal health program of Salvador, Brazil. Launched by the city on 17 Nov 2026, with an expected reach of about 20,000 pregnant women a year. I built the app (Expo/React Native on iOS, Android and web) and co-developed the portal (Next.js 16) and the API (NestJS, GraphQL, PostgreSQL) with the health department's IT team. The API reads clinical records from e-SUS APS, the national primary-care record system. · [App Store](https://apps.apple.com/br/app/id6830919689) · [Google Play](https://play.google.com/store/apps/details?id=br.gov.ba.salvador.saude.maesalvador360) · [Web](https://maesalvador360-saude.salvador.ba.gov.br/gestante) · [Press](https://www.bahianoticias.com.br/saude/noticia/33351-mae-salvador-360-veja-como-funciona-o-aplicativo-que-reune-servicos-de-saude-para-gestantes) · [Feb 2026 prototype](https://github.com/ayanliger/mae-salvador-mvp)
 
 **Selected projects**
 - **Lente**: natural-language interface and analytics over Brazilian municipal public procurement and fiscal data. Async FastAPI + React, RAG with mandatory citations (Gemini + pgvector), Terraform-managed GCP deployment. Currently paused pending institutional negotiations. [Repo](https://github.com/ayanliger/lente-gestor)
