@@ -14,4 +14,4 @@ Physician turned engineer focused on applied AI: RAG, agents, and the infrastruc
 
 **Background**
 
-Primary care physician. Completing a second degree in software engineering at FGV. Before medicine, ~5 years evaluating ground truth data for ranking and recommendation systems for Google and Meta via Appen/Leapforce.
+Primary care physician. Admitted to the online Master of Science in Artificial Intelligence at the University of Texas at Austin, starting in January 2027 (Spring 2027 term). Completing a second degree in software engineering at FGV. Before medicine, ~5 years evaluating ground truth data for ranking and recommendation systems for Google and Meta via Appen/Leapforce.
