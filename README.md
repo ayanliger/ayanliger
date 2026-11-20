@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://github.com/ayanliger/lente-gestor/blob/main/backend/pyproject.toml) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://github.com/ayanliger/mae-salvador-mvp) [![React_Native](https://img.shields.io/badge/Expo_/_React_Native-000020?logo=expo&logoColor=white)](https://github.com/ayanliger/mae-salvador-mvp) [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)](https://github.com/ayanliger/mae-salvador-mvp) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://github.com/ayanliger/lente-gestor/blob/main/backend/pyproject.toml) [![Google_Cloud](https://img.shields.io/badge/Google_Cloud-GKE-4285F4?logo=googlecloud&logoColor=white)](https://github.com/ayanliger/gke-turns10-hackathon-vigil)
 
-Software engineer building production applications and applied AI. Incoming M.S. in Artificial Intelligence student at UT Austin (January 2027).
+Software engineer building production applications and applied AI. Pursuing my M.S. in Artificial Intelligence at UT Austin.
 
 ## In production
 
